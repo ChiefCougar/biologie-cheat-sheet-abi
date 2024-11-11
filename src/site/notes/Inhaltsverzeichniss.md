@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inhaltsverzeichniss/","tags":["gardenEntry"]}
 ---
 
-___
+
 ### 1. **Evolution und Ökologie**
 
 #### **Evolutionsbiologie**  
@@ -31,7 +31,7 @@ ___
   - Schöpfungsgeschichten: Kreationismus, Intelligent Design
   - evolutionsstabile Strategien
 
----
+
 
 ### 2. **Genetik und Molekularbiologie**
 
@@ -51,7 +51,7 @@ ___
   - Endosymbiontentheorie zur Entstehung von Prokaryoten und Eukaryoten
   - Entstehung der Vielzeller
 
----
+
 
 ### 3. **Ökosysteme und Umweltbiologie**
 
@@ -70,7 +70,7 @@ ___
   - Naturschutz und Erhalt der Biodiversität
   - Leitbild Nachhaltigkeit (Nachhaltigkeitsdreieck)
 
----
+
 
 ### 4. **Biochemie und Stoffwechsel**
 
@@ -87,7 +87,7 @@ ___
   - Energiebilanz der ATP-Synthese
   - Protonengradient und ATP-Synthase
 
----
+
 
 ### 5. **Verhalten und Kommunikation**
 
@@ -97,7 +97,6 @@ ___
   - Kommunikation in Sozialverbänden
   - Formen des Lernens und Aggression
 
----
 
 ### 6. **Entwicklungsbiologie und Reproduktion**
 
