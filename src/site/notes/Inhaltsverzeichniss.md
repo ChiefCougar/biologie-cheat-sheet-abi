@@ -44,7 +44,7 @@
   - Homöobox-Gene
   - molekulare Uhr
   - Polyphänie und Polygenie
-  - Epigenetik
+  - [[Genetik und Molekularbiologie/Epigenetik\|Epigenetik]]
 
 #### **Molekulare Evolution und Entwicklung**  
   - chemische Evolution und evolutive Entwicklung von Stoffwechselprozessen
