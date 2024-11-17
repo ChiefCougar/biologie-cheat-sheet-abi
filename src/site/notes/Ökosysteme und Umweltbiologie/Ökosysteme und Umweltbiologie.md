@@ -16,3 +16,6 @@
   - Lotka-Volterra-Regeln, top-down- und bottom-up-Kontrolle
   - Naturschutz und Erhalt der Biodiversität
   - Leitbild Nachhaltigkeit (Nachhaltigkeitsdreieck)
+
+
+**[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]**
