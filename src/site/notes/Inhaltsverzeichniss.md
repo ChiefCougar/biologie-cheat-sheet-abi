@@ -12,7 +12,7 @@
   - Polymorphismus
   - biotische und abiotische Umweltfaktoren als Evolutionsfaktoren
   - Variationsbreite, Selektionstypen
-  - Genpool, Gendrift, Genfluss, adaptive Radiation
+  - [[Evolution und Ökologie/Genpool, Gendrift, Genfluss, adaptive Radiation\|Genpool, Gendrift, Genfluss, adaptive Radiation]]
   - Koevolution
   - Isolationsmechanismen
   - allopatrische und sympatrische Artbildung
