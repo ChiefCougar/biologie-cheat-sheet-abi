@@ -77,7 +77,5 @@
     - **Mismatch-Reparatur**: Korrektur falscher Basenpaarungen.
     - **Basenexzisionsreparatur**: Entfernung beschädigter Basen.
     - **Nukleotidexzisionsreparatur**: Entfernung größerer DNA-Schäden (z. B. UV-induzierte Thymin-Dimere).
-- **Apoptose**: Programmierter Zelltod bei irreparablen Schäden.
-    
-
----
+- **Apoptose**: 
+	- Programmierter Zelltod bei irreparablen Schäden.
