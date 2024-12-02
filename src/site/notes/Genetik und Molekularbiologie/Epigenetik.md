@@ -111,3 +111,6 @@ Die Epigenetik ist ein spannendes Forschungsfeld mit innovativen therapeutischen
 ### **Zusammenfassung**
 
 Epigenetik beschreibt die Steuerung der Genaktivität durch reversible, vererbbare Veränderungen an DNA und Chromatin, ohne die DNA-Sequenz selbst zu verändern. Hauptmechanismen sind die **DNA-Methylierung**, **Histonmodifikationen** und **nicht-codierende RNAs**, die zusammen die Chromatinstruktur und damit die Zugänglichkeit der Gene regulieren. Diese Prozesse reagieren dynamisch auf äußere Einflüsse wie Ernährung, Stress oder Umweltgifte und spielen eine Schlüsselrolle bei Entwicklung, Anpassung und Gesundheit. Epigenetische Fehlregulationen können Krankheiten wie Krebs, Stoffwechselstörungen oder psychische Erkrankungen begünstigen. Ihre Erforschung eröffnet innovative Ansätze für Diagnostik und Therapie.
+
+
+[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]
