@@ -37,13 +37,13 @@
 
 #### **Genetik und Vererbung**  
   - intra- und interchromosomale Rekombination
-  - Mutationsarten und Mutagene
+  - [[Genetik und Molekularbiologie/Mutationsarten und Mutagene\|Mutationsarten und Mutagene]]
   - Reparaturmechanismen für DNA-Schäden
-  - genetischer Code, Transkription und Translation
+  - [[Genetik und Molekularbiologie/genetischer Code, Transkription und Translation\|genetischer Code, Transkription und Translation]]
   - DNA-Sequenzvergleiche
   - Homöobox-Gene
   - molekulare Uhr
-  - Polyphänie und Polygenie
+  - [[Genetik und Molekularbiologie/Polyphänie und Polygenie\|Polyphänie und Polygenie]]
   - [[Genetik und Molekularbiologie/Epigenetik\|Epigenetik]]
 
 #### **Molekulare Evolution und Entwicklung**  
