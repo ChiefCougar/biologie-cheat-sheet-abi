@@ -67,3 +67,6 @@
 - **Genpool** ist die Basis für Evolution, da er die genetische Vielfalt einer Population beschreibt.
 - **Gendrift** reduziert genetische Vielfalt zufällig, während **Genfluss** sie durch Austausch erhöht.
 - **Adaptive Radiation** ist ein Prozess, bei dem ein gemeinsamer Genpool in viele spezialisierte Pools aufgespalten wird, um ökologische Nischen zu besetzen.
+
+
+[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]

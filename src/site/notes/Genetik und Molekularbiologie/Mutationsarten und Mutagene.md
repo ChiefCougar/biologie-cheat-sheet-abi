@@ -79,3 +79,6 @@
     - **Nukleotidexzisionsreparatur**: Entfernung größerer DNA-Schäden (z. B. UV-induzierte Thymin-Dimere).
 - **Apoptose**: 
 	- Programmierter Zelltod bei irreparablen Schäden.
+
+
+[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]

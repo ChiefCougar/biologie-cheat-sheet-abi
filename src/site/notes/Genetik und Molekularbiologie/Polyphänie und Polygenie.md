@@ -72,3 +72,6 @@ _Viele Gene, ein Merkmal._
 |**Merkmale**|Oft qualitativ|Häufig quantitativ|
 |**Beispiele**|Sichelzellenanämie, PKU|Hautfarbe, Körpergröße, Intelligenz|
 |**Umwelteinflüsse**|Gering bis moderat|Stark|
+
+
+[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]

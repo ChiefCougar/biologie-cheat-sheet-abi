@@ -82,3 +82,5 @@
 |**Translation**|Direkt nach Transkription (kopplung)|Nach Export der mRNA ins Cytoplasma|
 |**Genstruktur**|Operons (mehrere Gene pro mRNA)|Ein Gen pro mRNA|
 
+
+[[Inhaltsverzeichniss\|Inhaltsverzeichniss]]
